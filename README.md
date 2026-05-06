@@ -37,6 +37,7 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro 🎧🎤
 
 📸 [Instagram](https://instagram.com/tatsonj)  
 ✉️ **tatson.jacomo@gmail.com**
+<a class="btn" href="https://wa.me/5563991230341">Fale comigo</a>
 
 </div>
 
