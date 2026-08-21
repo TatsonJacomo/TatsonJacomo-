@@ -79,10 +79,13 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro ✨
   <a href="mailto:tatson.jacomo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://wa.me/5563991230341" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
-📬 **tatson.jacomo@gmail.com** —
-<a class="btn" href="https://wa.me/5563991230341">Fale comigo</a>
+📬 **tatson.jacomo@gmail.com** — Fale comigo! 💬
+
 ---
 
 
@@ -90,3 +93,10 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro ✨
 > 💡 *"A arte de programar e a arte de criar música têm algo em comum: transformar silêncio e linhas em emoção e movimento."* ✨
 
 
+
+<!-- BANNER PERSONALIZADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Olá!%20Eu%20sou%20o%20Tatson%20Jácomo&fontSize=32&fontAlignY=45&animation=fadeIn&stroke=2&strokeColor=fff&desc=Desenvolvedor%20Front-End%20%7C%20Apaixonado%20por%20Música%20e%20Tecnologia&descSize=16&descAlignY=70" alt="Banner Tatson Jácomo" />
+</p>
+
+---
