@@ -32,6 +32,33 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento web e constru
 
 ---
 
+### 🚀 Projetos em Destaque
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎴 Cartão Interativo</h3>
+        <p align="center">Projeto de cartão de visita interativo desenvolvido com HTML5 e CSS3, explorando efeitos de Glassmorphism e animações modernas para UI/UX.</p>
+        <p align="center">
+          <a href="https://github.com/TatsonJacomo/cartao-interativo">
+            <img src="https://img.shields.io/badge/-Ver%20Projeto-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🚧 Em breve...</h3>
+        <p align="center">Mais projetos com HTML, CSS, JavaScript e React estão sendo desenvolvidos e em breve estarão aqui! ✨</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Em%20Construção-F39C12?style=for-the-badge" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+---
 ### 🎵 Música
 
 Além da programação, a música faz parte de quem eu sou.
@@ -61,3 +88,5 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro ✨
 
 
 > 💡 *"A arte de programar e a arte de criar música têm algo em comum: transformar silêncio e linhas em emoção e movimento."* ✨
+
+
