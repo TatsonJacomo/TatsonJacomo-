@@ -35,19 +35,13 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro 🎧🎤
 ## 🌐 Onde me encontrar
 <div align="center">
 
-📸 [Instagram](https://instagram.com/tatsonj)  
-✉️ **tatson.jacomo@gmail.com**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tatsonj)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatson.jacomo@gmail.com)
 <a class="btn" href="https://wa.me/5563991230341">Fale comigo</a>
 
 </div>
 
 ---
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![Tatson GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsonjacomo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsonjacomo&layout=compact&theme=radical)
 
 </div>
 
