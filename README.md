@@ -95,9 +95,7 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro ✨
 
 
 <!-- BANNER PERSONALIZADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Olá!%20Eu%20sou%20o%20Tatson%20Jácomo&fontSize=32&fontAlignY=45&animation=fadeIn&stroke=2&strokeColor=fff&desc=Desenvolvedor%20Front-End%20%7C%20Apaixonado%20por%20Música%20e%20Tecnologia&descSize=16&descAlignY=70" alt="Banner Tatson Jácomo" />
-</p>
+
 
 ---
 
