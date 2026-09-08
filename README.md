@@ -100,3 +100,9 @@ Pretendo unir esse lado criativo aos meus projetos digitais no futuro ✨
 </p>
 
 ---
+
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=600&height=80&lines=Me+Contrate!+👋💻" />
+</p>
